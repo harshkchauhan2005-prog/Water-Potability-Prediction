@@ -1,2 +1,81 @@
-# Water-Potability-Prediction
-Water Potability Prediction using AI/ML – Machine Learning project to classify whether water is safe for drinking based on physicochemical properties. Built as part of AICTE–Edunet–Shell Internship, with stepwise milestones, analysis, and model comparisons.
+# 💧 Water Potability Prediction using AI/ML
+
+This project aims to **predict the potability of water** (safe for drinking or not) using **machine learning algorithms** on real-world water quality datasets.  
+It was developed as part of the **AICTE–Edunet–Shell Skills4Future Internship (Green Skills & AI domain)**.
+
+---
+
+## 🚀 Project Overview
+Access to clean drinking water is a global challenge. By analyzing water quality parameters (such as pH, hardness, solids, chloramines, sulfate, conductivity, organic carbon, trihalomethanes, and turbidity), this project predicts whether the water is **potable (1)** or **non-potable (0)**.
+
+- **Domain:** Artificial Intelligence / Machine Learning  
+- **Tools & Languages:** Python, Pandas, Scikit-Learn, Matplotlib, Jupyter Notebook  
+- **Dataset:** [Kaggle Water Potability Dataset](https://www.kaggle.com/datasets/adityakadiwal/water-potability)  
+
+---
+
+## 📂 Repository Structure
+
+
+
+---
+
+## 🏗️ Project Milestones
+
+### ✅ Week 1 (Baseline Model – 30% Progress)
+- Performed **Exploratory Data Analysis (EDA)**  
+- Cleaned missing values, normalized dataset  
+- Trained **Logistic Regression** model  
+- Achieved baseline accuracy of **~65%**  
+- 📌 Outcome: Dataset understood, baseline model ready
+
+### ⏳ Week 2 (Advanced Models – 60% Progress)
+- Implement **Random Forest, XGBoost**  
+- Compare performance with Logistic Regression  
+- Evaluate using **ROC-AUC, Precision, Recall, F1-score**
+
+### ⏳ Week 3 (Optimization – 90% Progress)
+- Perform **Hyperparameter Tuning**  
+- Feature importance analysis  
+- Improve accuracy and generalization  
+
+### ⏳ Week 4 (Final – 100% Progress)
+- Build final **Water Potability Prediction Model**  
+- Deploy results in structured report & presentation  
+- Submit project for internship evaluation  
+
+---
+
+## 📊 Expected Results
+- Predict water safety with **>75% accuracy**  
+- Identify key water quality features influencing potability  
+- Provide insights for **sustainable water resource management**  
+
+---
+
+## 🧑‍💻 Contribution & Learning Outcomes
+- Learned how to **clean and analyze real-world datasets**  
+- Built **machine learning models** for classification  
+- Understood the **importance of data preprocessing**  
+- Gained experience in **GitHub project management**  
+- Improved technical presentation & documentation skills  
+
+---
+
+## 🎯 Future Scope
+- Integrate with **IoT-based water monitoring systems**  
+- Deploy as a **web application (Flask/Streamlit)** for real-time predictions  
+- Extend dataset with **geographical water quality data** for better accuracy  
+
+---
+
+## 🏅 Internship Acknowledgment
+This project was completed under the **AICTE–Edunet–Shell Skills4Future Virtual Internship Program** (Green Skills & AI Domain).  
+
+---
+
+## 📌 Author
+**Harsh Chauhan**  
+- B.E. Information Technology, GEC Modasa  
+- [LinkedIn](https://www.linkedin.com/in/harsh-chauhan-988690338/)  
+- Aspiring Software Developer | Interested in AI, Web Development & Data Science
