@@ -23,26 +23,40 @@ Access to clean drinking water is a global challenge. By analyzing water quality
 ## 🏗️ Project Milestones
 
 ### ✅ Week 1 (Baseline Model – 30% Progress)
-- Performed **Exploratory Data Analysis (EDA)**  
-- Cleaned missing values, normalized dataset  
-- Trained **Logistic Regression** model  
-- Achieved baseline accuracy of **~65%**  
-- 📌 Outcome: Dataset understood, baseline model ready
+- Performed **Exploratory Data Analysis (EDA)**
+- Cleaned missing values, normalized dataset
+- Trained **Logistic Regression** model
+- Achieved baseline accuracy of **~65%**
+- 📌 Outcome: Dataset understood, baseline model ready  
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/harshkchauhan2005-prog/Water-Potability-Prediction/blob/main/notebooks/week1_water_potability_updated.ipynb)
+
+---
 
 ### ⏳ Week 2 (Advanced Models – 60% Progress)
-- Implement **Random Forest, XGBoost**  
-- Compare performance with Logistic Regression  
-- Evaluate using **ROC-AUC, Precision, Recall, F1-score**
+- Implement **Random Forest, XGBoost**
+- Compare performance with Logistic Regression
+- Evaluate using **ROC-AUC, Precision, Recall, F1-score**  
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/harshkchauhan2005-prog/Water-Potability-Prediction/blob/main/notebooks/week2_water_potability.ipynb)
+
+---
 
 ### ⏳ Week 3 (Optimization – 90% Progress)
-- Perform **Hyperparameter Tuning**  
-- Feature importance analysis  
+- Perform **Hyperparameter Tuning**
+- Feature importance analysis
 - Improve accuracy and generalization  
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/harshkchauhan2005-prog/Water-Potability-Prediction/blob/main/notebooks/week3_water_potability.ipynb)
+
+---
+
 ### ⏳ Week 4 (Final – 100% Progress)
-- Build final **Water Potability Prediction Model**  
-- Deploy results in structured report & presentation  
+- Build final **Water Potability Prediction Model**
+- Deploy results in structured report & presentation
 - Submit project for internship evaluation  
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/harshkchauhan2005-prog/Water-Potability-Prediction/blob/main/notebooks/week4_water_potability.ipynb)
 
 ---
 
