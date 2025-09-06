@@ -56,7 +56,8 @@ Access to clean drinking water is a global challenge. By analyzing water quality
 - Deploy results in structured report & presentation
 - Submit project for internship evaluation  
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/harshkchauhan2005-prog/Water-Potability-Prediction/blob/main/notebooks/week4_water_potability.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/harshkchauhan2005-prog/Water-Potability-Prediction/blob/main/notebooks/week2_water_potability.ipynb
+)
 
 ---
 
