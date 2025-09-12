@@ -42,22 +42,15 @@ Access to clean drinking water is a global challenge. By analyzing water quality
 
 ---
 
-### ⏳ Week 3 (Optimization – 90% Progress)
+### ⏳ Week 3 (Final Model – 100% Progress)
 - Perform **Hyperparameter Tuning**
 - Feature importance analysis
-- Improve accuracy and generalization  
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/harshkchauhan2005-prog/Water-Potability-Prediction/blob/main/notebooks/week3_water_potability.ipynb)
-
----
-
-### ⏳ Week 4 (Final – 100% Progress)
+- Improve accuracy and generalization
 - Build final **Water Potability Prediction Model**
-- Deploy results in structured report & presentation
+- Prepare structured **report & presentation**
 - Submit project for internship evaluation  
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/harshkchauhan2005-prog/Water-Potability-Prediction/blob/main/notebooks/week2_water_potability.ipynb
-)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/harshkchauhan2005-prog/Water-Potability-Prediction/blob/main/notebooks/week3_water_potability.ipynb)
 
 ---
 
