@@ -1,6 +1,6 @@
 # 💧 Water Potability Prediction using AI/ML
 
-This project aims to **predict the potability of water** (safe for drinking or not) using **machine learning algorithms** on real-world water quality datasets.  
+This project aims to **predict the potability of water**(safe for drinking or not) using **machine learning algorithms** on real-world water quality datasets.  
 It was developed as part of the **AICTE–Edunet–Shell Skills4Future Internship (Green Skills & AI domain)**.
 
 ---
